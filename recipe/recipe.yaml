@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.84.0.20260928"
+  version: "1.84.0.20261020"
 
 package:
   name: types-grpcio
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-grpcio/types_grpcio-${{ version }}.tar.gz
-  sha256: eacb229deeb94e23a37c7ed0dd739dd2098ee63c7e432cc88340109ae3ad2fc1
+  sha256: c918e729e94b37344ffce45fae61139b2ea77ff14efe98e9e7d347d05810a098
 
 build:
   number: 0
